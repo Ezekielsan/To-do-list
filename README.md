@@ -33,5 +33,5 @@ To run this project locally:
 5. Open your browser and navigate to: http://localhost/To-Do-list/Azrael.php
 ![Alt text](https://github.com/Ezekielsan/To-do-list/blob/main/Capture%20d%E2%80%99%C3%A9cran%202025-08-13%20130534.png
 )
-![Alt text](<img width="950" height="982" alt="Capture d’écran 2025-08-13 130640" src="https://github.com/user-attachments/assets/6e31487d-4779-4cf1-b327-a9ca0d7e6468" />
+![Alt text](https://github.com/Ezekielsan/To-do-list/blob/main/Capture%20d%E2%80%99%C3%A9cran%202025-08-13%20130640.png
 )
