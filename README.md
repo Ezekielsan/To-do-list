@@ -30,7 +30,7 @@ To run this project locally:
 3. Move the project folder into your server's root directory:
    - For XAMPP: C:\xampp\htdocs\Azrael-ToDo-List
 4. Start Apache from the XAMPP control panel.
-5. Open your browser and navigate to: http://localhost/To-Do-List/Azrzel.php
+5. Open your browser and navigate to: http://localhost/To-Do-list/Azrael.php
 ![Alt text](<img width="913" height="988" alt="Capture d’écran 2025-08-13 130534" src="https://github.com/user-attachments/assets/c0fc4760-05a5-4ddb-a599-14da3b725363" />
 )
 ![Alt text](<img width="950" height="982" alt="Capture d’écran 2025-08-13 130640" src="https://github.com/user-attachments/assets/6e31487d-4779-4cf1-b327-a9ca0d7e6468" />
